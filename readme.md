@@ -1,4 +1,4 @@
-# Bookstore: A Django projec to build a professional website
+# Bookstore: A Django project to build a professional website
 
 ## Features 
 
